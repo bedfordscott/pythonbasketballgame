@@ -4,9 +4,9 @@ This is a Python program that allows users to draft NBA players to their teams a
 Installation
 To use this program, you will need to have Python 3 installed on your computer, along with the following Python modules:
 
-beautifulsoup4
-pandas
-tkinter
+beautifulsoup4,
+pandas,
+tkinter,
 requests
 To install these modules, you can use the following commands in your terminal:
 
